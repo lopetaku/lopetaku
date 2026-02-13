@@ -10,38 +10,38 @@
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
 I'm a systems engineer with deep expertise in **low-level programming**, **performance-critical architecture**, and **complex systems design**. My work sits at the intersection of high-performance computing and real-world production constraints — where every microsecond counts and failure is not an option.
 
 I care deeply about understanding how things work at every level of the stack: from memory layouts and cache hierarchies to syscall interfaces, concurrency primitives, and the architecture of distributed systems that operate under strict latency and reliability requirements.
 
-What drives me is a genuine, relentless curiosity about technology in all its forms. I'm the kind of engineer who reads CPU architecture manuals for context, traces through kernel code paths to understand scheduling behavior, and finds real satisfaction in shaving nanoseconds off a hot path. I believe that **mastery of fundamentals** — not frameworks — is what separates engineers who build things that last.
+What drives me is a genuine, relentless curiosity about technology in all its forms 🔍. I'm the kind of engineer who reads CPU architecture manuals for context, traces through kernel code paths to understand scheduling behavior, and finds real satisfaction in shaving nanoseconds off a hot path. I believe that **mastery of fundamentals** — not frameworks — is what separates engineers who build things that last.
 
 ---
 
-## Core Expertise
+## 🎯 Core Expertise
 
-**Systems Programming & Low-Level Development**
+🔧 **Systems Programming & Low-Level Development**
 <br>Memory management, lock-free data structures, cache-aware optimization, IPC mechanisms, and bare-metal performance tuning. Comfortable working close to the hardware and reasoning about behavior at the instruction level.
 
-**Performance-Critical Architecture**
+⚡ **Performance-Critical Architecture**
 <br>Designing latency-sensitive systems where throughput, tail latency, and resource efficiency are primary constraints. Profiling-driven optimization, zero-copy pipelines, and real-time processing under strict SLAs.
 
-**Concurrency & Parallelism**
+🧠 **Concurrency & Parallelism**
 <br>Multi-threaded and multi-process architectures, synchronization strategies, async runtimes, and event-driven systems. Deep understanding of the tradeoffs between shared-memory concurrency, message passing, and actor models.
 
-**Distributed Systems & Infrastructure**
+🌐 **Distributed Systems & Infrastructure**
 <br>Fault-tolerant service design, message brokers, replication protocols, and orchestration of multi-component systems. Building infrastructure that stays up, scales predictably, and fails gracefully.
 
-**Algorithmic Trading & Financial Systems**
+📈 **Algorithmic Trading & Financial Systems**
 <br>Real-time signal processing, risk engines, order execution pipelines, and multi-account trade replication. Applying systems engineering rigor to domains where correctness and speed are both non-negotiable.
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
-**Systems & Low-Level**
+**⚙️ Systems & Low-Level**
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />&nbsp;
@@ -51,7 +51,7 @@ What drives me is a genuine, relentless curiosity about technology in all its fo
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
 </p>
 
-**Infrastructure & Messaging**
+**🏗️ Infrastructure & Messaging**
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />&nbsp;
@@ -61,7 +61,7 @@ What drives me is a genuine, relentless curiosity about technology in all its fo
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-**Application Layer**
+**📡 Application Layer**
 
 <p>
   <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot API" />&nbsp;
@@ -70,7 +70,7 @@ What drives me is a genuine, relentless curiosity about technology in all its fo
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-**Quality & Tooling**
+**🛡️ Quality & Tooling**
 
 <p>
   <img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black" alt="Ruff" />&nbsp;
@@ -81,7 +81,7 @@ What drives me is a genuine, relentless curiosity about technology in all its fo
 
 ---
 
-## Areas of Interest
+## 💡 Areas of Interest
 
 | | | |
 |:---|:---|:---|
@@ -92,15 +92,11 @@ What drives me is a genuine, relentless curiosity about technology in all its fo
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lopetaku&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&ring_color=58a6ff" height="170" alt="GitHub Stats" />&nbsp;
   <img src="https://streak-stats.demolab.com?user=lopetaku&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" height="170" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lopetaku&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160" alt="Top Languages" />
 </p>
 
 <p align="center">
