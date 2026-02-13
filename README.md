@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=650&lines=%24+whoami;Antonio+Lopez+%E2%80%94+lopetaku;Systems+Developer+%7C+Algo+Trader;I+build+things+that+move+money+%F0%9F%9A%80" alt="Typing SVG — whoami | Antonio Lopez | Systems Developer | Algo Trader" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=700&lines=%24+whoami;Antonio+Lopez+%E2%80%94+lopetaku;Systems+Engineer+%7C+Low-Level+Developer;Performance-Critical+Systems+%26+Architecture" alt="Typing SVG — Antonio Lopez | Systems Engineer | Low-Level Developer" />
 </h1>
 
 <p align="center">
@@ -10,87 +10,89 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-> *Systems developer obsessed with turning market signals into executed trades — as fast as the hardware allows.*
+I'm a systems engineer with deep expertise in **low-level programming**, **performance-critical architecture**, and **complex systems design**. My work sits at the intersection of high-performance computing and real-world production constraints — where every microsecond counts and failure is not an option.
 
-- 🔭 Building **automated prop trading systems** for FTMO challenges
-- ⚡ Specializing in **algorithmic trading**, **risk engines**, and **signal pipelines**
-- 📡 Connecting **Telegram bots** to **MetaTrader 5** for multi-account execution
-- 🧬 Obsessed with **low-latency architecture**, clean code, and zero-downtime infra
-- 🛠️ Core stack: **Python** · **C++** · **MetaTrader 5** · **NATS** · **SQLAlchemy**
-- 🌐 Frontend when forced at gunpoint: **Astro** · **TypeScript**
+I care deeply about understanding how things work at every level of the stack: from memory layouts and cache hierarchies to syscall interfaces, concurrency primitives, and the architecture of distributed systems that operate under strict latency and reliability requirements.
 
-```
-$ neofetch --developer
- ╭──────────────────────────────────╮
- │  OS       Linux (btw)            │
- │  Shell    zsh + tmux              │
- │  Editor   nvim (no mouse, ever)  │
- │  Font     Fira Code              │
- │  Uptime   too mass               │
- │  Coffee   ██████████░  critical  │
- ╰──────────────────────────────────╯
-```
+What drives me is a genuine, relentless curiosity about technology in all its forms. I'm the kind of engineer who reads CPU architecture manuals for context, traces through kernel code paths to understand scheduling behavior, and finds real satisfaction in shaving nanoseconds off a hot path. I believe that **mastery of fundamentals** — not frameworks — is what separates engineers who build things that last.
 
 ---
 
-## 🧰 Tech Stack
+## Core Expertise
 
-**Languages**
+**Systems Programming & Low-Level Development**
+<br>Memory management, lock-free data structures, cache-aware optimization, IPC mechanisms, and bare-metal performance tuning. Comfortable working close to the hardware and reasoning about behavior at the instruction level.
+
+**Performance-Critical Architecture**
+<br>Designing latency-sensitive systems where throughput, tail latency, and resource efficiency are primary constraints. Profiling-driven optimization, zero-copy pipelines, and real-time processing under strict SLAs.
+
+**Concurrency & Parallelism**
+<br>Multi-threaded and multi-process architectures, synchronization strategies, async runtimes, and event-driven systems. Deep understanding of the tradeoffs between shared-memory concurrency, message passing, and actor models.
+
+**Distributed Systems & Infrastructure**
+<br>Fault-tolerant service design, message brokers, replication protocols, and orchestration of multi-component systems. Building infrastructure that stays up, scales predictably, and fails gracefully.
+
+**Algorithmic Trading & Financial Systems**
+<br>Real-time signal processing, risk engines, order execution pipelines, and multi-account trade replication. Applying systems engineering rigor to domains where correctness and speed are both non-negotiable.
+
+---
+
+## Tech Stack
+
+**Systems & Low-Level**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />&nbsp;
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
 </p>
 
-**Frameworks & Infrastructure**
-
-<p>
-  <img src="https://img.shields.io/badge/MetaTrader_5-4A76A8?style=for-the-badge&logoColor=white" alt="MetaTrader 5" />&nbsp;
-  <img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white" alt="NATS" />&nbsp;
-  <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot API" />&nbsp;
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />&nbsp;
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
-</p>
-
-**Tooling & DevOps**
+**Infrastructure & Messaging**
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />&nbsp;
+  <img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white" alt="NATS" />&nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />&nbsp;
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+**Application Layer**
+
+<p>
+  <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot API" />&nbsp;
+  <img src="https://img.shields.io/badge/MetaTrader_5-4A76A8?style=for-the-badge&logoColor=white" alt="MetaTrader 5" />&nbsp;
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+**Quality & Tooling**
+
+<p>
   <img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black" alt="Ruff" />&nbsp;
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />&nbsp;
+  <img src="https://img.shields.io/badge/Mypy-1674B1?style=for-the-badge&logoColor=white" alt="Mypy" />&nbsp;
+  <img src="https://img.shields.io/badge/Valgrind-3E4349?style=for-the-badge&logoColor=white" alt="Valgrind" />
 </p>
 
 ---
 
-## ⚙️ What I'm Working On
-
-| | Project | Description |
-|---|---------|-------------|
-| 🤖 | **aura** | Telegram-controlled MetaTrader 5 trading bot with FTMO risk management and multi-account IPC replication |
-| 📈 | **tabot** | Production signal ingestion pipeline — Telegram → NATS → C++ MT5 bridge → execution |
-| 🌐 | **jarcarsimex** | Premium vehicle rental website built with Astro and motion-forward UI |
-| 🔐 | **research** | Reverse engineering, exploit analysis, and security tooling *(when the markets are closed)* |
-
----
-
-## 🧠 Interests
+## Areas of Interest
 
 | | | |
 |:---|:---|:---|
-| 📊 Algorithmic Trading | ⚡ Low-Latency Systems | 🏦 Prop Trading (FTMO) |
-| 🐧 Linux Internals | 📡 Market Microstructure | 🔐 Security Research |
-| 🔄 Distributed Systems | 🖥️ CLI Tooling | 🧪 Reverse Engineering |
+| 🔧 Systems Programming | ⚡ Low-Latency Engineering | 🧬 Compiler & Runtime Internals |
+| 🧠 Concurrency Models | 📡 Distributed Systems | 🏗️ Architecture Design |
+| 📊 Algorithmic Trading | 🐧 Linux Kernel & Internals | 🔐 Security & Reverse Engineering |
+| 🔬 Performance Analysis | 🔄 Lock-Free Data Structures | 🖥️ Developer Tooling |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lopetaku&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&ring_color=58a6ff" height="170" alt="GitHub Stats" />&nbsp;
@@ -107,15 +109,7 @@ $ neofetch --developer
 
 ---
 
-## 📬 Contact
-
 <p align="center">
   <a href="https://x.com/lopetaku_"><img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" /></a>&nbsp;
   <a href="https://github.com/lopetaku"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
-</p>
-
----
-
-<p align="center">
-  <code>built with mass caffeine, mass terminals, and mass stubbornness</code>
 </p>
