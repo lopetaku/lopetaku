@@ -28,7 +28,7 @@ $ neofetch --developer
  │  Shell    zsh + tmux              │
  │  Editor   nvim (no mouse, ever)  │
  │  Font     Fira Code              │
- │  Uptime   too many mass          │
+ │  Uptime   too mass               │
  │  Coffee   ██████████░  critical  │
  ╰──────────────────────────────────╯
 ```
@@ -93,24 +93,16 @@ $ neofetch --developer
 ## 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <img src="https://github-readme-stats.vercel.app/api?username=lopetaku&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&ring_color=58a6ff&cache_seconds=86400" height="170" alt="GitHub Stats" />
-  </picture>&nbsp;
-  <picture>
-    <img src="https://streak-stats.demolab.com?user=lopetaku&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" height="170" alt="GitHub Streak" />
-  </picture>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lopetaku&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&ring_color=58a6ff" height="170" alt="GitHub Stats" />&nbsp;
+  <img src="https://streak-stats.demolab.com?user=lopetaku&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" height="170" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopetaku&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" height="160" alt="Top Languages" />
-  </picture>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lopetaku&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <picture>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lopetaku&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area=true&area_color=58a6ff" width="95%" alt="Contribution Graph" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lopetaku&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area=true&area_color=58a6ff" width="95%" alt="Contribution Graph" />
 </p>
 
 ---
